@@ -1,0 +1,45 @@
+p {
+    color: blue;  /* Change text color to blue */
+    font-size: 16px;  /* Set font size to 16 pixels */
+    line-height: 1.5;  /* Set line height to 1.5 */     
+}
+li {
+    color: green;  /* Change text color to green */
+    font-size: 14px;  /* Set font size to 14 pixels */
+    line-height: 1.5;  /* Set line height to 1.5 */     
+}
+
+h3 {
+    color: lightgreen;
+    font-size: large;30px,
+    line: height 20px; ;
+    font weight: bold;  /* Set font weight to bold */
+    text-align: center;  /* Center align the text */
+    text-decoration: underline;  /* Underline the text */
+}
+h1 {
+    color: yellow;  /* Change text color to red */
+    font-size: 24px;  /* Set font size to 24 pixels */
+    line-height: 1.5;  /* Set line height to 1.5 */     
+    text-align: center;  /* Center align the text */
+    text-decoration: underline;  /* Underline the text */
+}
+#list {
+    color: orange;
+    margin: 20px;  /* Set margin to 20 pixels */
+    padding: 10px;  /* Set padding to 10 pixels */
+    border: 2px solid black;  /* Set border to 2 pixels solid black */
+    border-radius: 5px;  /* Set border radius to 5 pixels */
+    background-color: lightgray;  /* Set background color to light gray */
+    box-shadow :inset 4px 8px rgba(0, 0, 0, 0.2);  /* Set box shadow */
+
+}
+.let{
+    color: red;  /* Change text color to red */
+    font-size: 16px;  /* Set font size to 16 pixels */
+    line-height: 1.5;  /* Set line height to 1.5 */     
+    text-align: center;  /* Center align the text */
+    text-decoration: underline;  /* Underline the text */
+    font-weight: bold;  /* Set font weight to bold */
+    box-shadow: 0px 5px 5px yellow;
+}
