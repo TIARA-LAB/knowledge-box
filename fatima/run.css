@@ -11,7 +11,11 @@ li {
 
 h3 {
     color: lightgreen;
+<<<<<<< HEAD:index.html/style.css
     font-size: large:
+=======
+    font-size: 30px;
+>>>>>>> 1099268c9e05ba61565346dfefb72bbfbf4da9ac:fatima/run.css
     font-weight: bold;  /* Set font weight to bold */
     text-align: center;  /* Center align the text */
     text-decoration: underline;  /* Underline the text */
