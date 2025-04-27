@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding-block-end: 0%;
+}
+header{
+    background-color: blue;
+    color: red;
+    text-align: center;
+    padding: 2em;
+}
+nav ul{
+    list-style: none;
+    background-color: burlywood;
+    overflow: hidden;
+    color: beige;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+}
+nav ul li a {
+    color: aqua;
+    text-decoration: none;
+}
+section{
+    padding: 2em;
+}
+.dashboard{
+    background-color: beige;
+    padding: 2em;
+}
+.dashboard h2{
+color: chartreuse;
+}
+.card{
+    background-color: azure;
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid;
+}
